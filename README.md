@@ -1,7 +1,14 @@
-<a href="https://mail.cyber-lounge.net"><h2 align="center">wtfchewy</h2></a>
+![Header image](https://media.discordapp.net/attachments/1047336119580242001/1177861768253542440/header.png?ex=65740c41&is=65619741&hm=ae8afabda9b4df39c2e84dcef186d614229e8700818d3ac331d81a65268c5f25&=&format=webp&width=2116&height=642)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtfchewy&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;" alt="wtfchewy" />
-  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=z11hhakmgdzkbjvr1sg13o1r7&cover_image=false&theme=default" alt="wtfchewy" />
-</p>
+I'm a 16 year old Software Developer wanting to grow has a Developer.
+
+[x.com/wtfchewy](https://x.com/wtfchewy/)
+<wes@ikari.gg>
+
+## Domains:
+- mars.rip
+- ikari.gg
+- sulfur.gg
+- sulfur.sh
+- miragecorp.org
+- minebet.net
