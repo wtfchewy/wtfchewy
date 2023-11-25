@@ -3,7 +3,7 @@
 I'm a 16 year old Software Developer with a big interest in Music and Cars.
 
 [x.com/wtfchewy](https://x.com/wtfchewy/)
-<wes@ikari.gg>
+<wes@mars.rip>
 
 ## Domains:
 - mars.rip
