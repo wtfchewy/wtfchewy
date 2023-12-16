@@ -8,7 +8,7 @@ I'm a 16 year old Software Developer with a big interest in Music and Cars.
 ## Domains:
 - mars.rip
 - ikari.gg
-- sulfur.gg
+- [sulfur.gg](https://sulfur.gg/)
 - sulfur.sh
 - miragecorp.org
 - minebet.net
