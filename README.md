@@ -1,4 +1,4 @@
-![Header image](https://media.discordapp.net/attachments/1047336119580242001/1177861768253542440/header.png?ex=65740c41&is=65619741&hm=ae8afabda9b4df39c2e84dcef186d614229e8700818d3ac331d81a65268c5f25&=&format=webp&width=2116&height=642)
+![Header image](https://cdn.discordapp.com/attachments/1047336119580242001/1188353151443664997/header.png?ex=659a371d&is=6587c21d&hm=2a32d88b38e113539734e7cad5acb98ba0e67a0599e3d32832b721babd5483fe&)
 
 I'm a 16 year old Software Developer with interests in developing with music and other passions of mine in mind.
 
