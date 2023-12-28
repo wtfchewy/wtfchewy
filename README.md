@@ -8,7 +8,8 @@ I'm a 16 year old Software Developer with interests in developing with music and
 ## Domains:
 - mars.rip
 - ikari.gg
-- [sulfur.gg](https://sulfur.gg/)
+- [cyberapi.io](https://cyberapi.io/)
+- sulfur.gg
 - sulfur.sh
 - miragecorp.org
 - minebet.net
