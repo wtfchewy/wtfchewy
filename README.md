@@ -1,6 +1,6 @@
 ![Header image](https://i.imgur.com/AfGSDBe.png)
 
-I'm a 16 year old Software Devloper, Founder of Asterix: Indie Software Studio. Spending most of the my time writing music and working on cars with friends.
+I'm a 17 year old Software Devloper, Founder of Asterix: Indie Software Studio. Spending most of the my time writing music and working on cars with friends.
 
 [x.com/wtfchewy](https://x.com/wtfchewy/)
 <wes@mars.rip>
