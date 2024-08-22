@@ -6,5 +6,3 @@
 - [asterix.sh](https://asterix.sh/)
 - minebet.net
 - ikari.gg (SALE)
-- sulfur.gg (SALE)
-- sulfur.sh (SALE)
