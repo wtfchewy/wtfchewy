@@ -5,4 +5,3 @@
 - [mars.rip](https://mars.rip/)
 - [asterix.sh](https://asterix.sh/)
 - minebet.net
-- ikari.gg (SALE)
