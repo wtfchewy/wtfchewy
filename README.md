@@ -1,7 +1,7 @@
 [x.com/wtfchewy](https://x.com/wtfchewy/)
 <w@mars.rip>
 
-## Domains:
-- [mars.rip](https://mars.rip/)
+## Projects:
+- [cravings.club](https://cravings.club/)
 - [asterix.sh](https://asterix.sh/)
-- minebet.net
+- [mars.rip](https://mars.rip/)
