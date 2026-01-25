@@ -3,6 +3,6 @@
 
 ## Projects:
 - [mars.rip](https://mars.rip/)
-- [honch.io](https://honch.io/)
 - [assetbox.net](https://assetbox.net/)
 - [asterix.sh](https://asterix.sh/)
+- [honch.io](https://honch.io/) (discontinued use [posthog](https://posthog.com/))
